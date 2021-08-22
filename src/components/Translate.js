@@ -14,6 +14,14 @@ const options = [
     label: "Hindi",
     value: "hi",
   },
+  {
+    label: "Japanese",
+    value: "ja",
+  },
+  {
+    label: "Chinese",
+    value: "zh-TW",
+  },
 ];
 
 const Translate = () => {
